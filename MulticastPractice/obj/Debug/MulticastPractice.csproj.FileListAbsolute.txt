@@ -1,0 +1,10 @@
+C:\Users\12537\source\repos\MulticastPractice\MulticastPractice\bin\Debug\MulticastPractice.exe.config
+C:\Users\12537\source\repos\MulticastPractice\MulticastPractice\bin\Debug\MulticastPractice.exe
+C:\Users\12537\source\repos\MulticastPractice\MulticastPractice\bin\Debug\MulticastPractice.pdb
+C:\Users\12537\source\repos\MulticastPractice\MulticastPractice\obj\Debug\MulticastPractice.csprojAssemblyReference.cache
+C:\Users\12537\source\repos\MulticastPractice\MulticastPractice\obj\Debug\MulticastPractice.Form1.resources
+C:\Users\12537\source\repos\MulticastPractice\MulticastPractice\obj\Debug\MulticastPractice.Properties.Resources.resources
+C:\Users\12537\source\repos\MulticastPractice\MulticastPractice\obj\Debug\MulticastPractice.csproj.GenerateResource.cache
+C:\Users\12537\source\repos\MulticastPractice\MulticastPractice\obj\Debug\MulticastPractice.csproj.CoreCompileInputs.cache
+C:\Users\12537\source\repos\MulticastPractice\MulticastPractice\obj\Debug\MulticastPractice.exe
+C:\Users\12537\source\repos\MulticastPractice\MulticastPractice\obj\Debug\MulticastPractice.pdb
